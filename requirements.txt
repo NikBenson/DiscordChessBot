@@ -1,0 +1,4 @@
+requests>=2.23.0
+discord.py>=1.4.1
+python-dotenv>=0.14.0
+mysql-connector-python>=3.6.1
